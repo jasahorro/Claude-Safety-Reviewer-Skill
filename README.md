@@ -57,7 +57,7 @@ Key concepts I learnt include understanding the vulnerabilities of third-party e
 
 ### Time and challenges
 
-This project took me approximately 20 minutes to complete. The most challenging part was understanding how to structure the custom skill's trigger descriptions effectively so that Claude automatically invokes the six-point safety review when encountering repository links without needing manual prompt injection.
+This project took me approximately 20 minutes to complete. The most challenging part was understanding how to structure the custom skill's trigger description effectively so that Claude automatically runs the six-point safety review whenever I share a repository link, without me having to paste the full prompt manually.
 
 ### Looking ahead
 
